@@ -1,0 +1,39 @@
+<map id="CMaterialManager" name="CMaterialManager">
+<area shape="rect" id="node1" title=" " alt="" coords="467,1163,593,1189"/>
+<area shape="rect" id="node2" href="$class_c_g_l_context.html" title=" " alt="" coords="753,927,847,953"/>
+<area shape="rect" id="node4" href="$class_c_matrix_stack.html" title=" " alt="" coords="1059,759,1159,785"/>
+<area shape="rect" id="node7" href="$class_c_lighting.html" title=" " alt="" coords="1214,555,1291,581"/>
+<area shape="rect" id="node9" href="$class_c_light.html" title=" " alt="" coords="1079,397,1139,422"/>
+<area shape="rect" id="node13" href="$class_c_geom_manager.html" title=" " alt="" coords="1051,1483,1167,1509"/>
+<area shape="rect" id="node16" href="$class_c_renderer_manager.html" title=" " alt="" coords="1043,1582,1176,1607"/>
+<area shape="rect" id="node25" href="$class_c_tex_manager.html" title=" " alt="" coords="1058,111,1161,137"/>
+<area shape="rect" id="node31" href="$class_c_draw_context.html" title=" " alt="" coords="1057,986,1162,1011"/>
+<area shape="rect" id="node34" href="$class_c_display_context.html" title=" " alt="" coords="1051,1035,1168,1061"/>
+<area shape="rect" id="node36" href="$class_c_material.html" title=" " alt="" coords="1071,1155,1148,1181"/>
+<area shape="rect" id="node3" href="$class_c_imm_matrix_stack.html" title=" " alt="" coords="1339,730,1466,755"/>
+<area shape="rect" id="node5" href="$class_c_d_list_matrix_stack.html" title=" " alt="" coords="1337,787,1468,813"/>
+<area shape="rect" id="node6" href="$class_c_imm_lighting.html" title=" " alt="" coords="1567,615,1669,641"/>
+<area shape="rect" id="node10" href="$class_c_d_list_lighting.html" title=" " alt="" coords="1564,375,1672,401"/>
+<area shape="rect" id="node8" href="$class_c_imm_light.html" title=" " alt="" coords="1359,397,1446,422"/>
+<area shape="rect" id="node11" href="$class_c_d_list_light.html" title=" " alt="" coords="1357,347,1448,373"/>
+<area shape="rect" id="node12" href="$class_c_imm_geom_manager.html" title=" " alt="" coords="1331,1357,1474,1382"/>
+<area shape="rect" id="node21" href="$class_c_d_list_geom_manager.html" title=" " alt="" coords="1329,1519,1476,1545"/>
+<area shape="rect" id="node14" href="$class_c_vert_array.html" title=" " alt="" coords="757,1537,843,1562"/>
+<area shape="rect" id="node15" href="$structt_user_prim_entry.html" title=" " alt="" coords="745,1446,855,1471"/>
+<area shape="rect" id="node17" href="$class_c_renderer_props.html" title=" " alt="" coords="741,1671,859,1697"/>
+<area shape="rect" id="node18" href="$structt_renderer.html" title=" " alt="" coords="761,1622,839,1647"/>
+<area shape="rect" id="node19" href="$class_c_renderer.html" title=" " alt="" coords="489,1622,571,1647"/>
+<area shape="rect" id="node20" href="$class_c_geometry_block.html" title=" " alt="" coords="1049,1370,1169,1395"/>
+<area shape="rect" id="node22" href="$class_c_d_list.html" title=" " alt="" coords="263,1702,325,1727"/>
+<area shape="rect" id="node24" href="$class_c_d_list_manager.html" title=" " alt="" coords="474,1047,586,1073"/>
+<area shape="rect" id="node23" href="$class_c_d_list_cmd_block.html" title=" " alt="" coords="5,1702,128,1727"/>
+<area shape="rect" id="node26" href="$class_c_m_m_texture.html" title=" " alt="" coords="752,41,848,66"/>
+<area shape="rect" id="node27" title=" " alt="" coords="481,41,579,66"/>
+<area shape="rect" id="node28" href="$class_c_m_m_clut.html" title=" " alt="" coords="762,90,838,115"/>
+<area shape="rect" id="node29" title=" " alt="" coords="491,90,569,115"/>
+<area shape="rect" id="node30" href="$class_c_imm_draw_context.html" title=" " alt="" coords="1337,925,1468,950"/>
+<area shape="rect" id="node33" href="$class_c_d_list_draw_context.html" title=" " alt="" coords="1335,1061,1471,1086"/>
+<area shape="rect" id="node32" href="$class_c_clear_env.html" title=" " alt="" coords="1068,873,1151,898"/>
+<area shape="rect" id="node35" href="$class_c_imm_material.html" title=" " alt="" coords="1351,1189,1454,1214"/>
+<area shape="rect" id="node37" href="$class_c_d_list_material.html" title=" " alt="" coords="1349,1246,1457,1271"/>
+</map>
